@@ -1,6 +1,6 @@
 # Jira-beginner-tutorial
 
 
-# **Introduction**
+## **Introduction**
 
- [Introduction à Jira](Introduction/Introduction-Jira.md)
+ - [Introduction à Jira](Introduction/Introduction-Jira.md)
