@@ -23,3 +23,6 @@
 6. **Sous-tâche (Sub-task)** :
    - Les sous-tâches sont des éléments de travail plus petits qui contribuent à l'achèvement d'une tâche principale, d'une histoire ou d'un épic.
    - Elles peuvent être utilisées pour diviser une tâche en étapes plus petites et plus gérables.
+
+Voici une illustartuation de la hierarchie entre les tâches : 
+[](Images/issue-hierarchy-v2.png)
