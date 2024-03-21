@@ -25,4 +25,4 @@
    - Elles peuvent être utilisées pour diviser une tâche en étapes plus petites et plus gérables.
 
 Voici une illustartuation de la hierarchie entre les tâches : 
-[](Images/issue-hierarchy-v2.png)
+![hierarchie-image](Images/issue-hierarchy-v2.png)
